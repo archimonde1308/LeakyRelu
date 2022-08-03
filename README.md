@@ -1,4 +1,4 @@
-# Team leaky-relu: Ameya Akkalkotkar, Yogesh Riyat
+# Team LeakyRelu: Ameya Akkalkotkar, Yogesh Riyat
 Machine Learning, Computer Vision, Medical Imaging
 
 This is a medical image classification project. 
