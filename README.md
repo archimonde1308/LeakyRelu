@@ -15,4 +15,4 @@ Both the model architecture and the GradCAM functions were developed by Francois
 
 This is a work in progress and the next step for improving the accuracy of the GradCAM heatmaps would be to incorporate occlusion sensitivity into this pipeline.
 
-![cat_example](https://user-images.githubusercontent.com/6412336/182632494-9616b666-6b22-4eb6-bbbb-d70dd924ccb5.jpg =250x250) ![grad_cam](https://user-images.githubusercontent.com/6412336/182632498-e1cf0d45-25d6-489f-b53f-dbc2b1fcd48e.png =250x250)
+![cat_example](https://user-images.githubusercontent.com/6412336/182632494-9616b666-6b22-4eb6-bbbb-d70dd924ccb5.jpg width="200" height="200") ![grad_cam](https://user-images.githubusercontent.com/6412336/182632498-e1cf0d45-25d6-489f-b53f-dbc2b1fcd48e.png width="200" height="200")
